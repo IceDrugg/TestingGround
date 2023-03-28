@@ -3,4 +3,4 @@
 ### 3 pieces
 #### 4 pieces
 
-Link: [HWS Servers](https://empyrion-homeworld.net)
+Link: [Your best site](https://localhost/)
